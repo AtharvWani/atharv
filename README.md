@@ -1,1 +1,1 @@
-# Project-I
+This is Project I of VIIT.
